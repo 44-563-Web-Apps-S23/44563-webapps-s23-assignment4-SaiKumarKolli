@@ -3,6 +3,20 @@
   }
   .direction {
     background-color: beige;font-size: 20;font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(232, 232, 100);font-size: 20;font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(143, 143, 8);font-size: 20;font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
+  .direction:hover {
+    background-color: rgb(9, 168, 168);
+
+  }
+  .LUKE{
+    color: rgb(98, 98, 237);
+    }
+    .REVENUE{
+    color: rgb(251, 21, 170);
+    }
+    
+    
+
+
     
