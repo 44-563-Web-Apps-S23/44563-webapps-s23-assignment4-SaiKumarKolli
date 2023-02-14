@@ -48,7 +48,11 @@
     tr:nth-child(even) {
         background-color: beige;
     }
-    
+    .LUKE:hover,
+    .REVENUE:hover {
+     border: 2px solid rgb(198, 103, 9);
+    box-shadow: 5px 5px 8px 5px rgb(165, 204, 237);
+}
 
     
 
