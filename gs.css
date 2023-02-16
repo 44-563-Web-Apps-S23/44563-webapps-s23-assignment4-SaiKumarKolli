@@ -3,7 +3,6 @@
   }
   .direction {
     background-color: beige;font-size: 20;font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(143, 143, 8);font-size: 20;font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   .direction:hover {
     background-color: rgb(9, 168, 168);
